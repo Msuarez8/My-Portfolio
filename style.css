@@ -1,0 +1,75 @@
+
+
+header {
+  background-color: cadetblue;
+  margin-left:75px;
+margin-right:75px;
+}
+hr{
+  height:4px;
+  background-color: white;
+  border: 2px solid black;
+  margin:0px;
+}
+
+header h1{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 50px;
+  text-align: center;
+  color:gray;
+  font-style: italic;
+}
+header h3{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 24px;
+  color:gainsboro;
+  text-align: center;
+  
+}
+
+main {
+  background-color: thistle;
+  margin-left:75px;
+  margin-right:75px;
+  border:4px solid teal;
+}
+main h3{
+  text-align: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:black;
+}
+main p{
+  text-align: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:black;
+}
+
+ul{
+  list-style-position: inside;
+  text-align: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:black;
+}
+ol {
+  text-align: center;
+  list-style-position: inside;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+a:link{color:blueviolet}
+a:visited {color:red;}
+a:hover{color:paleturquoise;}
+a:active{color:pink;}
+
+
+footer {
+background-color: cadetblue;
+margin-left:75px;
+margin-right:75px;
+}
+
+footer p{ 
+color:gainsboro;
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+
+ }
